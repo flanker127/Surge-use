@@ -14,4 +14,4 @@
 Sub_info = script-name=Sub_info,update-interval=3600
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fbypass.cloudflare.cyou%2Fss%2F13099%2FDwJDRmGhyf%2F&reset_day=1&title=Prpr&icon=externaldrive.fill.badge.icloud=#007aff
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https&reset_day=1&title=Prpr&icon=externaldrive.fill.badge.icloud=#007aff
